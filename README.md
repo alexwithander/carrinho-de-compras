@@ -4,14 +4,12 @@
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
-```
 npm install bootstrap
 ```
 ### Install Boostrap
 ```
-
+### Compiles and hot-reloads for development
+```
 npm run serve
 ```
 
