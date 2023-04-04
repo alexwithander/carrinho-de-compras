@@ -6,7 +6,7 @@ npm install
 ```
 ### Install bootstrap
 ```
-npm install Boostrap
+npm install Bootstrap
 ```
 ### Compiles and hot-reloads for development
 ```
