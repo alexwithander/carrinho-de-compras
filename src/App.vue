@@ -1,6 +1,9 @@
 <template>
   <div class="app">
-    <CarrinhodeCompras> </CarrinhodeCompras>
+    <CarrinhodeCompras/>
+  </div>
+  <div class="text-center mt-5">
+      <p>by alexander</p>
   </div>
 </template>
 
